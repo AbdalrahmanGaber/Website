@@ -7,12 +7,8 @@ This is my first website.
 <head>
     <meta charset="UTF-8">
 </head>
-<style>
-body {background-color:lightgrey;}
-h1   {color:blue;}
-p    {color:green;}
-</style>
-<body>
+
+<body style"background-color:red;">
     <a href="https://www.linkedin.com/in/abdalrahman-gaber-813029339">My Linkedin</a>
 </body>
 </html>
