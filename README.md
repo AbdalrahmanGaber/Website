@@ -8,8 +8,8 @@ This is my first website.
     <meta charset="UTF-8">
 </head>
 
-<body style="background-color:red;">
-<h1>abdo</h1>
+<body>
+<h1 style="background-color:red;">abdo</h1>
     <a href="https://www.linkedin.com/in/abdalrahman-gaber-813029339">My Linkedin</a>
 </body>
 </html>
