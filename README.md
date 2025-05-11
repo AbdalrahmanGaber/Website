@@ -6,20 +6,9 @@ This is my first website.
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Center Text</title>
     <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Full height of the viewport */
-            margin: 0; /* Remove default margin */
-            background-color: #f0f0f0; /* Optional background color */
-        }
-        h1 {
-            text-align: center;
-        }
+     
+            background-color: #f0f0f0; 
     </style>
 </head>
 <body>
