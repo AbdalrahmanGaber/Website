@@ -8,7 +8,7 @@ This is my first website.
     <meta charset="UTF-8">
 </head>
 
-<body style"background-color:red;">
+<body style="background-color:red;">
 <h1>abdo</h1>
     <a href="https://www.linkedin.com/in/abdalrahman-gaber-813029339">My Linkedin</a>
 </body>
