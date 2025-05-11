@@ -6,10 +6,7 @@ This is my first website.
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <style>
-     
-            background-color: #f0f0f0; 
-    </style>
+    <title>Abdo</title> 
 </head>
 <body>
     <a href="https://www.linkedin.com/in/abdalrahman-gaber-813029339">My Linkedin</a>
